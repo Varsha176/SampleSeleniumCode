@@ -27,7 +27,7 @@ public class TestCases {
 	}
 
 
-	@Test
+	@Test(description="Verify Title")
 	public void VerifyTitle() {
 
 		 driver.get("https://ecommerce-playground.lambdatest.io/");
@@ -39,7 +39,7 @@ public class TestCases {
 	       
 	}
 	
-	@Test
+	@Test(description="Verify HomePage")
 	public void VerifyHomePage() {
 
 		 driver.get("https://ecommerce-playground.lambdatest.io/");

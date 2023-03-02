@@ -11,33 +11,33 @@
       <![CDATA[URL is verified for this test]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-03-02T12:48:52 IST" name="Suite" finished-at="2023-03-02T12:49:01 IST" duration-ms="9174">
+  <suite started-at="2023-03-02T13:11:05 IST" name="Suite" finished-at="2023-03-02T13:11:14 IST" duration-ms="9518">
     <groups>
     </groups>
-    <test started-at="2023-03-02T12:48:52 IST" name="Random Test" finished-at="2023-03-02T12:49:01 IST" duration-ms="9174">
+    <test started-at="2023-03-02T13:11:05 IST" name="Random Test" finished-at="2023-03-02T13:11:14 IST" duration-ms="9518">
       <class name="Demo.TestCases">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.TestCases@5f683daf]" started-at="2023-03-02T12:48:52 IST" name="setup" finished-at="2023-03-02T12:48:56 IST" duration-ms="3540" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.TestCases@5552768b]" started-at="2023-03-02T13:11:05 IST" name="setup" finished-at="2023-03-02T13:11:08 IST" duration-ms="3284" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[We used Google Chrome for this test]]>
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="VerifyHomePage()[pri:0, instance:Demo.TestCases@5f683daf]" started-at="2023-03-02T12:48:56 IST" name="VerifyHomePage" finished-at="2023-03-02T12:49:00 IST" duration-ms="4060" status="PASS">
+        <test-method signature="VerifyHomePage()[pri:0, instance:Demo.TestCases@5552768b]" started-at="2023-03-02T13:11:08 IST" name="VerifyHomePage" description="Verify HomePage" finished-at="2023-03-02T13:11:13 IST" duration-ms="4437" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Home Page is verified for this test]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyHomePage -->
-        <test-method signature="VerifyTitle()[pri:0, instance:Demo.TestCases@5f683daf]" started-at="2023-03-02T12:49:00 IST" name="VerifyTitle" finished-at="2023-03-02T12:49:01 IST" duration-ms="1338" status="PASS">
+        <test-method signature="VerifyTitle()[pri:0, instance:Demo.TestCases@5552768b]" started-at="2023-03-02T13:11:13 IST" name="VerifyTitle" description="Verify Title" finished-at="2023-03-02T13:11:14 IST" duration-ms="1606" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[URL is verified for this test]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyTitle -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Demo.TestCases@5f683daf]" started-at="2023-03-02T12:49:01 IST" name="teardown" finished-at="2023-03-02T12:49:01 IST" duration-ms="211" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Demo.TestCases@5552768b]" started-at="2023-03-02T13:11:14 IST" name="teardown" finished-at="2023-03-02T13:11:14 IST" duration-ms="167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
