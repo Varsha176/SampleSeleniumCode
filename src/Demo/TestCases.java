@@ -17,7 +17,13 @@ public class TestCases {
 
 	@BeforeTest
 	public void setup() {
-		
+		ChromeOptions options = new ChromeOptions();
+
+ options.addArguments("--no-sandbox");
+
+ options.addArguments("--disable-dev-shm-usage");
+
+ options.addArguments("--headless");
 		WebDriverManager.chromedriver().setup();
 	 driver = new ChromeDriver();
 		 Reporter.log("We used Google Chrome for this test");
